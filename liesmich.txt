@@ -1,0 +1,196 @@
+Inhalt
+1. Spielsteuerung
+2. Kontakt
+3. Dank
+4. Allgemeines
+5. Lösung (betrifft NUR den Hauptpfad der Geschichte)
+
+------------------------------------------------------------------------------------------
+1. Spielsteuerung
+
+Pfeiltasten     : Lauf- und Blickrichtung des Helden
+Enter	        : Die Allzwecktaste, um ein Objekt zu untersuchen, anzusprechen, anzugreifen o.ä.
+ESC	        : Menü
+0 (Nummernblock): Menü
+F4		: Fenstergröße
+F12		: Schnellausstieg
+
+(Wer Probleme mit den Schriftarten hat, findet eine einfache Lösung in der liesmich2)
+
+Bedienung der Monsterfibel:
+Mit Pfeiltasten und Enter eine Monsterkategorie ("Tiere", Menschen" oder "Andere") auswählen.
+Monster in den einzelnen Bereichen wiederum per Pfeiltasten und Enter bestimmen, derenen Eigen-
+schaften angesehen werden sollen. Gegebenfalls mit den Pfeilsymbolen über den Monsterbildern
+eine neue Seite aufschlagen.
+Wichtig: Nur die Monster, die analysiert wurden, sind später in der Monsterfibel abrufbar. Leere
+         Stellen geben einen Hinweis auf nicht untersuchte Gegner.
+
+
+------------------------------------------------------------------------------------------
+2. KONTAKT
+
+Fragen, Anregungen, Beschwerden, Verrisse, Lob usw. an 
+real_troll2005@yahoo.de
+
+weitere Informationen auf:
+http://freenet-homepage.de/real_troll/index.html
+
+oder:
+http://forum.rpg2000.4players.de
+(Forum RPG-Maker Quartier)
+
+und
+http://multimediaxis.net/forumdisplay.php?f=5
+(Forum RPG-Atelier)
+
+
+------------------------------------------------------------------------------------------
+3. DANK
+
+Für den Fall, dass wieder einmal niemand den Abspann liest, lauere ich eben hier noch
+einmal mit meinem Dank.
+Zunächst danke ich meinen beiden Spiellektoren, die sich "Die Reise ins All" teils in sehr frühen Stadien 
+angetan haben: Betatestermaus und Drac. Sie haben nie die Hände über dem Kopf zusammengeschlagen, 
+sondern Vorschläge entfaltet, Korrekturen angeregt, mein Entwicklerherz mit Bestätigung beträufelt
+und mich um die Sichtweise eines anderen bereichert.
+Trotz vieler eigener Pixeleien ist die Grafik bei weitem nicht mein alleiniges Werk. Vor allem die
+Grafikkacheln REFMAPs geben der Spielwelt überhaupt erst den Grund und Boden, auf dem sich alles 
+weitere abspielen kann. Daneben konnte ich mich, in ganz verschiedenem Umfang, auf die Pixelwerke 
+folgender Künstler stützen: Daos-Mandrak, Davias, Davis Pryde, Drac, Grandy, Hyptosis, JackandDrake,
+Kaltblut, Lachsen, Marlex, Nyanko, Tantrix und Theodore.
+Fertiggescriptete Bausätze, die ihren Teil dazu beitrugen, die Entwicklung zu beschleunigen, verdanke
+ich GSandSDS, Koriant und Ramonto.
+Etwas besonderes ist durch die Hilfsbereitschaft Davis Prydes in "Die Reise ins All" eingeflossen: Einige
+Musikstücke, die es nur hier zu hören gibt. Und damit hat mein eingebungsbeschenkter Midi-Komponist
+natürlich seinen Anteil an der atmosphärischen Stimmung so manchen Bereichs.
+Dass sich das alles aber in eine spielbare Form fügt, dass aus dem Projekt mehr geworden ist, als ein
+fehlerverseuchter Frustklumpen, geht direkt auf den Fleiß, die Sorgfalt und die Entdeckerlust der
+Betatester zurück. Dafür danke ich: Betatestermaus, Blank, Davis Pryde, Groogokk, Ivegotnoo, Katii,
+MysticT, Skeleton Bee, Skydea und Waldviech.
+
+------------------------------------------------------------------------------------------
+4. ALLGEMEINES
+
+Es lohnt sich, oft zu speichern, da einige Gegner über üble Tricks verfügen, die der
+Heldentruppe ordentlich zusetzen können. Hat man hingegen die spezifischen Schwächen des
+jeweiligen Gegners erkannt (am einfachsten per "Einschätzen"), reicht u.U. ein einziger 
+Schlag, um den Kampf zu entscheiden. Wer möglichst viel in Kämpfen ausprobiert, wird über 
+kurz oder lang mit jedem Gegner fertig. Die Taktik zählt. Und wer auf Nummer sicher gehen 
+möchte, sollte immer folgende Tränke bei sich führen: Balsam-Öl, Badekur, Riechsalz und
+Wundsalbe/Medizin.
+Für jedes Rätsel existieren Hinweise. Sollte dennoch einmal der Geistesblitz ausbleiben, ist
+unten die Lösung angefügt. Achtung: Keine Komplettlösung. Sie enthält nur, was absolut 
+wesentlich für den Fortlauf des Spiels ist.
+Es lohnt sich, den Seitenarmen und Verzweigungen der Nebengeschichten zu folgen. Hier
+winken zusätzliche Erfahrung und Geld. Wem das indes zu langwierig ist, kann auch einfach
+die Hauptgeschichte straff und zügig durchspielen. Das ist dann aber wegen der geringeren 
+Erfahrungspunkte etwas schwieriger.
+Je besser man die einzelnen Gefährten in der Heldengruppe kennt, desto einfacher hat man
+es im Spielverlauf. Da die Party wiederholt geteilt wird, kommt es immer wieder zu
+Situationen, in denen es darauf ankommt, das optimale aus den Charakteren herauszuholen, um
+allein oder zu zweit, anstatt wie gewohnt zu viert, die Gefahren zu bestehen.
+
+------------------------------------------------------------------------------------------
+5. LÖSUNG
+
+Um frustrierende Momente klein zu halten, hier die Lösung. Das Spiel umfasst weitaus mehr,
+als im Folgenden geschildert ist. Aber der beschriebene Weg ist ausreichend, um "Die
+Reise ins All" antreten zu können. Sämtliche Nebenaufgaben werden hier bewusst übergangen.
+Die Lösung sollte nur im Notfall konsultiert werden, da hier unweigerlich immer auch Teile 
+der Geschichte verraten werden, und so die Überraschung verdorben werden kann.
+
+WÜSTE/STATUE
+Prof. Heisen findet das Werkzeug im rechten Schrank seines Zeltes. Das wendet er vor
+der Brust der Statue an und tritt ein. Im ersten Raum liest er die Wandinschrift, nimmt
+daraufhin ein Stück der linken Statue an sich und setzt es in der halbmondförmigen Statue
+ein. Im zweiten Raum drückt er den ersten und den dritten Knopf (von links aus gesehen)
+und geht durch die Tür. Im dritten Raum springt er über alle Hindernisse hinweg und 
+weicht den prallenden Felsen aus, um den Maximalwert an Erfahrung zu erhalten. Geschafft.
+Der Rest läuft automatisch ab.
+
+STADT
+Nachdem Leutnant Mackwitz die Weltausstellung (auf der Stadtkarte oben Mitte) besucht und 
+dort mit Prof. Heisen gesprochen hat, hat er neue Feinde gewonnen. Zwei Ganoven werden
+auf den Leutnant angesetzt und lauern im Villenviertel auf ihn. Sobald Mackwitz Stufe 2 
+erreicht hat, sind diese Gegner aber kein wirkliches Problem mehr.
+In der Kaserne erhält Mackwitz den Auftrag, Professor Heisen in der Universität (links oben
+auf Stadtkarte) zu besuchen. Nach dem Gespräch in Heisens Büro (2. Etage, 2. Tür von rechts)
+erstattet Mackwitz in der Kaserne Bericht und hat sich nun mit der unbotmäßigen Presse
+herumzuschlagen. Er besucht den Verleger in der Altstadt (Mitte der Stadtkarte), wird aber,
+wie der nachfolgende Tumult vor den Kasernentoren zeigt, nichts erreichen können. 
+Wieder beim Professor in der Uni muss Mackwitz OPERNKARTEN besorgen. Dazu geht er ins
+Wirthaus in der ALtstadt, liest auf dem schwarzen Brett, dass der kleine Johann vermisst
+wird, findet ihn auf dem Platz vor der Tür und erhält von Johanns Eltern (nördlich des 
+Platzes, linkes Haus) zur Belohnung die Opernkarten.
+In der Vorstellung weiht Heisen den Leutnant in die Pläne ein. Nach dem Ball redet Mackwitz
+mit dem Verleger, dann mit Eleonore. Sie wird beim Tanz vom Phantom entführt. Mackwitz und
+Heisen nehmen die Verfolgung auf und öffnen den Zugang zum Reich des Phantoms über eine
+kleine Schalttafel links neben der Tür. Die zugehörige Kombination lässt sich über die
+Wandinschrift rechts davon erfahren (5643). Um das Gitter zu öffen, treten die Helden auf
+das Schaltfeld ganz rechts. Nach einigen Kämpfen gegen Kleingetier erreichen sie die Tür
+zum Phantom (Mitte), benötigen aber am hellen Loch SCHLINGE und HAKEN, um den Mechanismus
+zu knacken. Das findet sich hinter der linken Tür (Seil an Wand) und der rechten (Nagel in
+alter Kommode). Abspeichern. Nachdem das Phantom besiegt ist, untersucht man den Abfall-
+korb und verlässt die Oper. Mackwitz kann sich noch in der Kaserne ausruhen, bevor die 
+Zugfahrt beginnt, kann aber ebensogut im Zug schlafen.
+
+ZUGFAHRT
+Nachdem Mackwitz mit ALLEN Passagieren des ersten Waggons gesprochen hat, erhält er von
+Holmes den Auftrag, das gesamte Gepäck zu durchsuchen. Gesagt getan. Daraufhin geht
+Mackwitz in den Speisewagen und versucht sein Glück als großer Detektiv. Hier kann man
+unbesorgt probieren und eigentlich jeden des Mordes beschuldigen. Nachdem der Fall geklärt
+ist, geht Heisen in sein Abteil (1. Waggon, 1. Tür) zurück und verspricht dem Professor,
+dessen Etui zu suchen.
+Mit Eleonore durchstreifen wir den Zug und entdecken, dass in Edinsons Abteil (3. von 
+rechts) die Leiche verschwunden ist. Eleonore bespricht die Sache mit Watson (Speisewagen),
+erfährt, wer zu suchen ist und nimmt sicherheitshalber den Professor aus dem Abteil 
+(immer noch 1. Waggon, 1. Tür) mit. Der Gesuchte verbirgt sich in der Lok und offenbart
+sich, sobald die Helden den Lokführer ansprechen. Vorher abspeichern.
+Mackwitz kehrt zurück und erzählt von seiner wundersamen Rettung. Nachdem Graf Zeppelin
+im Haus verschwunden ist, schleicht Mackwitz hinterher. Leise! Zwischen den Schritten auf
+dem hallenden Fußboden des Flurs müssen mindestens 2 Sekunden liegen, sonst wird Mackwitz
+vom Grafen erwischt. Im linken Raum und im Obergeschoss finden sich etliche Hinweise:
+Ziffern. In der richtigen Reihenfolge ergeben sie den Tresorcode (5643, irgendwie bekannt...)
+Mackwitz konfrontiert Zeppelin mit dem Fund und hat sein Transportmittel. Allgemeiner
+Beifall. Nachdem man durch den Vogelschwarm hindurch ist, werden unsere Freunde in den
+Karpaten abgesetzt.
+
+KARPATEN
+In der Dorfschenke verkauft der Wirt ein Bratpfannen-Gericht, das müde Helden umgehend
+auf Vordermann bringt. Sehr empfehlenswert. Frankensteins Schloss liegt im Osten. Der
+Hausherr zeigt sich wenig gastfreundlich und verschwindet durch die nördlichen Torbögen des
+großen Saales. Um ihm zu folgen, muss unbedingt das Starkstromhindernis ausgeschaltet
+werden. Dazu müssen nacheinander alle Räume nach den jeweiligen Schlüsseln durchsucht
+werden. Schlüssel 1 liegt unter der Teppichkante (oben links) des Gästezimmers und öffnet
+in der ersten Etage die dritte Tür von links (1, 3). Dort liegt Schlüssel 2 auf dem Tisch.
+Man bekommt ihn nur, wenn man den Ratten ausweicht (beliebig wiederholbar). Hier sind schnelle 
+Reaktionen und etwas Glück gefragt (Wer links oder rechts auf den Tisch springt, hat Ruhe).
+Der Schlüssel öffnet den Wohnraum Frankensteins in der zweiten Etage (2, 2). Die obere Säule 
+ist hohl, der gefundene Schaltplan weist in seinen Ecken den Tresorcode (7391) aus. 
+Im Safe liegt Schlüssel 3, der in Igors Zimmer (1, 1) führt. Das Muster auf dem 
+linken Vorhang entpuppt sich als der gesuchte Schlüssel 4. Der öffnet endlich die Tür 
+zum Sicherungskasten (2, 1). Sobald man die Sicherung ausschaltet, dreht man dem Schloss 
+den Saft ab und kann endlich den großen Saal in Richtung Norden verlassen. 
+Die Treppe hinunter und ins Labor geeilt, betätigen die Helden den EMK (großes Gerät rechts)
+und entfliehen mit dem neuen Gefährten in die unterirdische Finsternis. Hier gilt es, ein 
+großes Loch im Boden zu finden. Ein möglicher Weg: 4x links, runter, rechts. Man findet 
+einen Helfer, besiegt den großen Gegner (vorher abspeichern) und gelangt wieder nach Hause.
+
+ARBEITERVIERTEL
+Eleonores Spürnase benötigt nun unsere Hilfe, die Ursache des Streiks aufzuklären. Zwei
+Wege existieren:
+a) der teure Weg
+Eleonore kauft dem Eckensteher die gesuchte Information ab - vorausgesetzt, es ist soviel
+Geld da, wie der gierige Kerl verlangt.
+b) der hochherzige Weg
+Helft den Mietern in eurem Untersuchungsgebiet und begeht mindestens 3 gute Taten an ihnen.
+Zum Dank verraten sie euch dasselbe wie der Eckensteher.
+Nun nicht nicht vom Pfandleiher abwimmeln lassen, sondern kräftig nachbohren. Der Pfand-
+leiher flieht, lässt dabei die Hintertür auf und man kann seinen Geschäftsbereich über
+den Flur des Mietshauses betreten. Eleonore durchsucht die Truhe an der rechten Wand und
+geht in die Hafenkneipe, Browski zur Rede zu stellen. Mit den gefundenen Beweisen lässt
+euch die Wache passieren. Abspeichern. Auf schweren Kampf einstellen, gewinnen.
+
+Die nächste Aufgabe... na ich denke, der Stil, in dem die Rätsel aufgebaut sind, dürfte 
+mittlerweile hinreichend klar sein. Falls doch Probleme auftauchen, schaut mal in einem
+der Foren nach (s. Kontakt). Ansonsten noch viel Spaß beim Knobeln.
